@@ -31,6 +31,16 @@ namespace CSStudy
 
             #endregion
 
+            #region Event
+            //创建事件拥有者和响应者的实列
+            Customer customer = new Customer();
+            Waiter waiter = new Waiter();
+
+            //事件只能+=或者-=,Action(事件处理器)用ait+回车补全
+            customer.Order += waiter.Action;
+            //事件拥有者的某个方法来触发事件
+            customer.DianCai();
+            #endregion
         }
     }
 }
