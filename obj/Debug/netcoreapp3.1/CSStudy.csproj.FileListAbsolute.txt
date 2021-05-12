@@ -10,3 +10,4 @@ C:\Users\ZhongWen\source\repos\CSStudy\obj\Debug\netcoreapp3.1\CSStudy.csproj.Co
 C:\Users\ZhongWen\source\repos\CSStudy\obj\Debug\netcoreapp3.1\CSStudy.dll
 C:\Users\ZhongWen\source\repos\CSStudy\obj\Debug\netcoreapp3.1\CSStudy.pdb
 C:\Users\ZhongWen\source\repos\CSStudy\obj\Debug\netcoreapp3.1\CSStudy.genruntimeconfig.cache
+C:\Users\ZhongWen\source\repos\CSStudy\obj\Debug\netcoreapp3.1\CSStudy.csprojAssemblyReference.cache

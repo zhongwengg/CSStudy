@@ -41,6 +41,24 @@ namespace CSStudy
             //事件拥有者的某个方法来触发事件
             customer.DianCai();
             #endregion
+
+            #region Lambda
+            Func<int, int, int> func = new Func<int, int, int>((int a, int b) => { return a + b; });
+            Console.WriteLine(func(9, 8)+"-这是lambda+的结果");
+            func = new Func<int, int, int>((int a, int b) => {return a* b; });
+            Console.WriteLine(func(9, 8) + "-这是lambda*的结果");
+           Func<string,string> funcs = new Func<string, string>((string s) => { return s; });
+            Console.WriteLine(funcs("hello lambda")+"这是lambda s的结果");
+            #endregion
+
+            #region Lambda简化版
+            Func<int, int, int> funcj = (ja,jb)=> { return ja + jb; };
+            Console.WriteLine(funcj(9, 18) + "-这是lambda简化+的结果");
+            funcj = (a,b) => {return a*b; };
+            Console.WriteLine(func(2, 2) + "-这是lambda简化*的结果");
+            Func<string, string> funcsj = (s) => { return s; };
+            Console.WriteLine(funcs("hello lambda简化") + "这是lambda简化 s的结果");
+            #endregion
         }
     }
 }
