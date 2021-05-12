@@ -59,6 +59,8 @@ namespace CSStudy
             Func<string, string> funcsj = (s) => { return s; };
             Console.WriteLine(funcs("hello lambda简化") + "这是lambda简化 s的结果");
             #endregion
+
+      
         }
     }
 }
