@@ -1,0 +1,12 @@
+C:\Users\ZhongWen\source\repos\CSStudy\bin\Debug\netcoreapp3.1\CSStudy.exe
+C:\Users\ZhongWen\source\repos\CSStudy\bin\Debug\netcoreapp3.1\CSStudy.deps.json
+C:\Users\ZhongWen\source\repos\CSStudy\bin\Debug\netcoreapp3.1\CSStudy.runtimeconfig.json
+C:\Users\ZhongWen\source\repos\CSStudy\bin\Debug\netcoreapp3.1\CSStudy.runtimeconfig.dev.json
+C:\Users\ZhongWen\source\repos\CSStudy\bin\Debug\netcoreapp3.1\CSStudy.dll
+C:\Users\ZhongWen\source\repos\CSStudy\bin\Debug\netcoreapp3.1\CSStudy.pdb
+C:\Users\ZhongWen\source\repos\CSStudy\obj\Debug\netcoreapp3.1\CSStudy.AssemblyInfoInputs.cache
+C:\Users\ZhongWen\source\repos\CSStudy\obj\Debug\netcoreapp3.1\CSStudy.AssemblyInfo.cs
+C:\Users\ZhongWen\source\repos\CSStudy\obj\Debug\netcoreapp3.1\CSStudy.csproj.CoreCompileInputs.cache
+C:\Users\ZhongWen\source\repos\CSStudy\obj\Debug\netcoreapp3.1\CSStudy.dll
+C:\Users\ZhongWen\source\repos\CSStudy\obj\Debug\netcoreapp3.1\CSStudy.pdb
+C:\Users\ZhongWen\source\repos\CSStudy\obj\Debug\netcoreapp3.1\CSStudy.genruntimeconfig.cache
